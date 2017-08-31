@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/cc/eguid/charsocr/PlateRecognition.java=UTF-8
+encoding//src/cc/eguid/charsocr/core/CharsIdentify.java=UTF-8
+encoding//src/cc/eguid/charsocr/core/CharsSegment.java=UTF-8
+encoding//src/cc/eguid/charsocr/core/PlateLocate.java=UTF-8
+encoding//src/cc/eguid/charsocr/core/SVMCallback.java=UTF-8
